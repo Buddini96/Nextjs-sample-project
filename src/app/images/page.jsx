@@ -12,6 +12,14 @@ function Page() {
         width={1000}
         height={1000}
       />
+
+      <Image
+        src="https://images.pexels.com/photos/11235676/pexels-photo-11235676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        alt="Pexels example"
+        className="imgContent"
+        width={1000}
+        height={1000}
+      />
     </div>
   );
 }

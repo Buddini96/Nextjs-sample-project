@@ -12,6 +12,10 @@ h1 {
   color: palevioletred;
 }
 
+h2 {
+  color: white;
+}
+
 p {
   color: white;
 }
@@ -31,4 +35,9 @@ p {
 
 h3 {
   color: olivedrab;
+}
+
+.imgContent {
+  width: 100%;
+  object-fit: cover;
 }
