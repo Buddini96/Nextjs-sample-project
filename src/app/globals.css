@@ -26,12 +26,12 @@ p {
   background-color: pink;
 }
 
-.wrapper {
+/* .wrapper {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   min-height: 100vh;
-}
+} */
 
 h3 {
   color: olivedrab;
